@@ -1,0 +1,7 @@
+../Reports Generated/NPuzzle_FirstChoiceHillClimbing_Results result:
+
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
